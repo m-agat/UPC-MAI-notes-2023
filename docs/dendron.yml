@@ -106,3 +106,5 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
+    assetsPrefix: /UPC-MAI-notes-2023
+    siteURL: https://m-agat.github.io
